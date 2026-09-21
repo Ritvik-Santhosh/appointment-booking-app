@@ -1,3 +1,4 @@
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,33 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# Appointment Booking App
+
+A full-stack appointment booking platform built with Next.js and Firebase, consisting of three connected applications:
+
+- **Client App** — customers browse businesses, view services, and book appointments
+- **Business Admin App** — business owners manage their listing, services, and availability
+- **Store Admin App** — individual stores log in to view bookings, edit their details, and set availability
+
+## Tech Stack
+- Next.js 15
+- Firebase (Firestore, Authentication-style custom login)
+- TypeScript
+- Tailwind CSS
+- React Hook Form
+
+## Features
+- Business listings with images, services, and pricing
+- Interactive map with business location (Leaflet)
+- Appointment booking with date/time slot selection
+- Email confirmation on booking (Resend)
+- SMS confirmation (Twilio)
+- Admin dashboards for managing businesses and appointments
+
+## Setup
+1. Clone the repo
+2. Run `pnpm install` (or `npm install`)
+3. Create a `.env.local` file with your Firebase config (see `.env.example` if provided)
+4. Run `pnpm dev`
+39750d84a72aaaeb8da0ac6ce8a54f3e510690d0
