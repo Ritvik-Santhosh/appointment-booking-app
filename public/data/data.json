@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Johnny's Hair Salon",
+    "category": "Salon",
+    "address": "123 Main St, Cityville",
+    "phone": "+1 123-456-7890",
+    "coordinates": { "lat": 40.712776, "lng": -74.005974 },
+    "rules": [
+      "Appointments only, no walk-ins.",
+      "Wear a mask during the service.",
+      "No pets allowed inside.",
+      "Cancellations must be 24 hours in advance.",
+      "Payments accepted: Cash, Credit, PayPal."
+    ],
+    "images": [
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300"
+    ],
+    "services": [
+      { "name": "Haircut", "price": "$30" },
+      { "name": "Beard Trim", "price": "$15" },
+      { "name": "Hair Coloring", "price": "$50" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bella's Spa Retreat",
+    "category": "Spa",
+    "address": "456 Ocean Dr, Beach Town",
+    "phone": "+1 987-654-3210",
+    "coordinates": { "lat": 34.052235, "lng": -118.243683 },
+    "rules": [
+      "Advance booking required.",
+      "Please arrive 10 minutes early.",
+      "No outside food or drinks.",
+      "Relaxing environment, keep noise levels low.",
+      "Gift cards available for purchase."
+    ],
+    "images": [
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300"
+    ],
+    "services": [
+      { "name": "Massage", "price": "$60" },
+      { "name": "Facial", "price": "$40" },
+      { "name": "Manicure", "price": "$25" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Fresh Cuts Barbershop",
+    "category": "Barbershop",
+    "address": "789 Barber Ln, Trimtown",
+    "phone": "+1 555-321-9876",
+    "coordinates": { "lat": 41.878113, "lng": -87.629799 },
+    "rules": [
+      "Walk-ins welcome, appointments preferred.",
+      "Children must be supervised.",
+      "Cash and card payments accepted.",
+      "Late arrivals may lose their appointment.",
+      "No loud music inside."
+    ],
+    "images": [
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300"
+    ],
+    "services": [
+      { "name": "Men’s Haircut", "price": "$25" },
+      { "name": "Kids Haircut", "price": "$20" },
+      { "name": "Hot Towel Shave", "price": "$35" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Zen Yoga Studio",
+    "category": "Fitness",
+    "address": "654 Peace Ave, Mindville",
+    "phone": "+1 444-222-8888",
+    "coordinates": { "lat": 37.774929, "lng": -122.419418 },
+    "rules": [
+      "No shoes inside the studio.",
+      "Arrive 5 minutes before class.",
+      "Phones must be on silent mode.",
+      "Respect other participants.",
+      "Bring your own yoga mat."
+    ],
+    "images": [
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300"
+    ],
+    "services": [
+      { "name": "Hatha Yoga", "price": "$20" },
+      { "name": "Power Yoga", "price": "$25" },
+      { "name": "Meditation Class", "price": "$15" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Urban Auto Wash",
+    "category": "Car Wash",
+    "address": "101 Shine St, AutoCity",
+    "phone": "+1 333-777-5555",
+    "coordinates": { "lat": 39.739236, "lng": -104.990251 },
+    "rules": [
+      "No personal detailing inside the wash area.",
+      "Please remove valuables before service.",
+      "Drive slow through the wash tunnel.",
+      "No refunds after service is completed.",
+      "Follow attendant instructions."
+    ],
+    "images": [
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300",
+      "https://placehold.co/300"
+    ],
+    "services": [
+      { "name": "Exterior Wash", "price": "$15" },
+      { "name": "Interior Cleaning", "price": "$25" },
+      { "name": "Full Detailing", "price": "$50" }
+    ]
+  }
+]
